@@ -54,7 +54,7 @@ body{
 }
 
 .btn1::before{
-  background: #105710;
+  background: #74db2a;
   content: "";
   position: absolute;
   top: 50%;
@@ -65,7 +65,7 @@ body{
 }
 
 .btn2::before{
-  background: #b3a120;
+  background: #e5f011;
   content: "";
   position: absolute;
   top: 50%;
@@ -76,7 +76,7 @@ body{
 }
 
 .btn3::before{
-  background: #750909;
+  background: #f00a0a;
   content: "";
   position: absolute;
   top: 50%;
